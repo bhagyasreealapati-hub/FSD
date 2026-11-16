@@ -1,0 +1,10 @@
+POST /api/v1/patients 201 - 11ms
+POST /api/v1/patients 201 - 2ms
+POST /api/v1/patients 500 - 5ms
+GET /api/v1/patients 200 - 2ms
+GET /api/v1/patients/1 200 - 2ms
+PUT /api/v1/patients/1 200 - 1ms
+DELETE /api/v1/patients/2 200 - 1ms
+GET /api/v1/patients 200 - 1ms
+GET / 404 - 15ms
+GET /favicon.ico 404 - 2ms
